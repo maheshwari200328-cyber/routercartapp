@@ -30,7 +30,7 @@ function ViewCart() {
               className="flex items-center gap-5 ring-1 rounded-lg p-4 mb-4 shadow-sm hover:shadow-md transition"
             >
               <img
-                src={item.imgUrl}
+                src={item.image}
                 alt={item.title}
                 className="w-28 h-28 object-cover rounded-lg"
               />
